@@ -66,7 +66,7 @@ Then follow the on-screen menu:
 ### 🏁 Main Menu  
 ![Main Menu](inventory-management-system/assets/main-menu-screen.png)
 
-### 🧑‍💻 Registration  
+### 🧑‍💻 Registration & Login  
 ![Register](inventory-management-system/assets/registration-login.png)
 
 ### ➕ Add Items  
