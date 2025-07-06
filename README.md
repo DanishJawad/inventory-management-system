@@ -64,16 +64,16 @@ Then follow the on-screen menu:
 ## 🖼️ Screenshots
 
 ### 🏁 Main Menu  
-![Main Menu](assets/main-menu-screen.png)
+![Main Menu](inventory-management-system/assets/main-menu-screen.png)
 
 ### 🧑‍💻 Registration  
-![Register](assets/registration-login.png)
+![Register](inventory-management-system/assets/registration-login.png)
 
 ### ➕ Add Items  
-![Add](assets/add-items.png)
+![Add](inventory-management-system/assets/add-items.png)
 
 ### 🧾 View/Update  
-![Update](assets/display-update-items.png)
+![Update](inventory-management-system/assets/display-update-items.png)
 
 ---
 
